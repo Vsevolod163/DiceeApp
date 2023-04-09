@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        rollButton.layer.cornerRadius = 5
+        rollButton.layer.cornerRadius = 10
     }
 
 
